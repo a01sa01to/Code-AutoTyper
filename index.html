@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Code Typer</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1">
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="./style.css">
+        <script src="./script.js"></script>
+    </head>
+    <body>
+        File:<select id="extension">
+        </select>.<i id="ext">html</i>・
+        Auto Input:<input type="radio" name="auto" id="auto" value="off" checked>OFF
+        <input type="radio" name="auto" id="auto" value="on">ON・
+        Interval of Auto <input type="number" id="auto_interval" value="50" maxlength="4" disabled>ms<br>
+        <div id="frame"></div>
+        <table border=0>
+        <tr><td style="width: 10vw"><div id="line"><i class="num">1</i><br><i class="num">2</i></div></td>
+        <td style="width:90vw"><div id="out"></div></td></tr></table>
+
+    </body>
+</html>

@@ -1,0 +1,29 @@
+[{
+    "file": "index.html",
+    "ext": "html",
+    "lang": "HTML"
+},{
+    "file": "style.css",
+    "ext": "css",
+    "lang": "CSS"
+},{
+    "file": "style.scss",
+    "ext": "scss",
+    "lang": "Sass"
+},{
+    "file": "script.js",
+    "ext": "js",
+    "lang": "JavaScript"
+},{
+    "file": "php.php",
+    "ext": "php",
+    "lang": "PHP"
+},{
+    "file": "python.py",
+    "ext": "py",
+    "lang": "Python"
+},{
+    "file": "ruby.rb",
+    "ext": "rb",
+    "lang": "Ruby"
+}]
