@@ -5,7 +5,7 @@
 This is a playable tool and you can feel like a hacker!<br>
 Why? The Program inputs Code, which already made, even if you input anything, or inputs automatically!
 
-[Play Now!](http://repos.a01sa01to.com/Code-AutoTyper/)
+[Play Now!](https://repos.a01sa01to.com/Code-AutoTyper/)
 
 ## How to Play
 
