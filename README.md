@@ -1,5 +1,8 @@
 # Code-AutoTyper
 
+[![MIT License](https://img.shields.io/github/license/a01sa01to/Code-AutoTyper?maxAge=3600, "MIT License")](https://github.com/a01sa01to/Code-AutoTyper/blob/master/LICENSE)
+[![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&message=%40a01sa01to&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=4273512934)
+
 ## What's this?
 
 This is a playable tool and you can feel like a hacker!<br>
@@ -42,7 +45,7 @@ Why? The Program inputs Code, which already made, even if you input anything, or
 ## Author
 
 [Asa (a.k.a Otsun)（@a01sa01to）](https://twitter.com/a01sa01to)<br>
-[Message @a01sa01to](https://twitter.com/messages/compose?recipient_id=4273512934&ref_src=twsrc%5Etfw)
+[Send Message to Author](https://twitter.com/messages/compose?recipient_id=4273512934)
 
 ## License
 
