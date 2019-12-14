@@ -40,7 +40,7 @@ Why? The Program inputs Code, which already made, even if you input anything, or
   If other error occurs, [contact me](https://twitter.com/messages/compose?recipient_id=4273512934&ref_src=twsrc%5Etfw)!
 
 ## Release
-
+[![Release](https://img.shields.io/github/v/release/a01sa01to/Code-AutoTyper?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/Code-AutoTyper/releases)
 > Version 1.0 Released on 2019.08.11
 
 ## Author
