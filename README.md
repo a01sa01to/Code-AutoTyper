@@ -54,3 +54,8 @@ Why? The Program inputs Code, which already made, even if you input anything, or
 
 This is under the MIT LICENSE.<br>
 See [LICENSE](https://github.com/a01sa01to/Code-AutoTyper/blob/master/LICENSE) file.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/a01sa01to/Code-AutoTyper/badge.svg?style=beer-square)](https://beerpay.io/a01sa01to/Code-AutoTyper)  [![Beerpay](https://beerpay.io/a01sa01to/Code-AutoTyper/make-wish.svg?style=flat-square)](https://beerpay.io/a01sa01to/Code-AutoTyper?focus=wish)
